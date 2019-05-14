@@ -4,7 +4,7 @@ alexandreNVS.github.io
 Hello world!
 
 My Github user page is at: 
-https://github.com/alexandreNVS.github.i/
+https://github.com/alexandreNVS.github.io/
 
 My Github Pages repo can be found at:  
 https://github.com/dantnguyen/alexandreNVS.github.io/
